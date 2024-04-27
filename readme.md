@@ -5,7 +5,7 @@ https://drive.google.com/drive/folders/10vOLrI0vNY0lFWUKx5RSO4ixDfH2WSA4?usp=dri
 
 # DEMO
 
-![](https://youtu.be/9eoo6TNuYpw)
+https://youtu.be/9eoo6TNuYpw
 
 - Right trigger to advance
 - Brake with left trigger
